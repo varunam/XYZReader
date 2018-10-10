@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/varun.am/.android/build-cache/a196afb0b5ff2012753f98637205a6696dcec9ac/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/varun.am/.android/build-cache/a196afb0b5ff2012753f98637205a6696dcec9ac/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/varun.am/.android/build-cache/a196afb0b5ff2012753f98637205a6696dcec9ac/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/varun.am/.android/build-cache/a196afb0b5ff2012753f98637205a6696dcec9ac/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/varun.am/.android/build-cache/a196afb0b5ff2012753f98637205a6696dcec9ac/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/varun.am/.android/build-cache/a196afb0b5ff2012753f98637205a6696dcec9ac/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

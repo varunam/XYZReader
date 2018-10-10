@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/.android/build-cache/c33e59b5442ffc7d4c0e172c360e038633dc6788/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37415e87d34f440d1cf94ed70d603af7e9c1168d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ba0af05b63658a605bd025df2d7fb9ad8deba4ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/.android/build-cache/2cef0e869c507e53bc097e6a5d9dc7d5176d52c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3887e2a6307a5a672462776bcfe2eb765b05aa82">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79f394e1c57ac4bbdfaf139c5a5fdfcaaa8d424b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/.android/build-cache/ee78bc957d0513f1c78997392af5f245febc0121/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_410693720e93a6ce364a0adc2abf08a681a534ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_9d5eaba54c8549b5eb6d31881a2521f4f9f5c367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9da9e0454ac2642ad025d9d9c2749f2d932e4732/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e688a4f00cfc8f159c69da8d925f99a1c00fd6">
+        <dex dex="/Users/varun.am/Downloads/XYZ-Reader-Udacity-Project-master/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0111f750dd84695503bda2bae9ba69f39bd9f68/classes.dex" />
+    </item>
+
+</items>
